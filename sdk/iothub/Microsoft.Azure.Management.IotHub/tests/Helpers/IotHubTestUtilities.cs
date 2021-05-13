@@ -18,7 +18,7 @@ namespace IotHub.Tests.Helpers
         public static string DefaultIotHubName = "DotNetHub";
         public static string DefaultUpdateIotHubName = "UpdateDotNetHub";
         public static string DefaultResourceGroupName = "DotNetHubRG";
-        public static string DefaultUpdateResourceGroupName = "UpdateDotNetHubRG";
+        public static string DefaultUpdateResourceGroupName = "UpdatedDotNetHubRG";
         public static string EventsEndpointName = "events";
         public static string DefaultCertificateIotHubName = "DotNetCertificateHub";
         public static string DefaultCertificateResourceGroupName = "DotNetCertificateHubRG";
